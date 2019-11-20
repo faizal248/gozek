@@ -1,0 +1,2 @@
+# gozek
+lo goblok
